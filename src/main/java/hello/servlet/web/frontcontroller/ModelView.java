@@ -5,8 +5,9 @@ import lombok.Setter;
 
 import java.util.HashMap;
 import java.util.Map;
-@Getter
+
 @Setter
+@Getter
 public class ModelView {
     private String viewName;
     private Map<String, Object> model = new HashMap<>();
