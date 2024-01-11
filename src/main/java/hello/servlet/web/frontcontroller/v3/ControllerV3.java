@@ -6,5 +6,5 @@ import java.util.Map;
 
 public interface ControllerV3 {
 
-    ModelView process(Map<String, String> paraMap); // 서블릿 기술이 들어가 있지 않음
+    ModelView process(Map<String, String> paramMap); // 서블릿 기술이 들어가 있지 않음
 }
