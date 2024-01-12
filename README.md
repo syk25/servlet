@@ -4,6 +4,8 @@
 
 ## 학습기록
 ### 2024.01.12(금)
+- refactor: ControllerV4를 HandlerAdapter 에 추가
+- refactor: HandlerAdapter, Handler 추가
 - refactor: 프론트 컨트롤러가 모델을 담당
 - refactor: Adapter 패턴 도입
 
