@@ -4,6 +4,7 @@
 
 ## 학습기록
 ### 2024.01.12(금)
+- refactor: 컨트롤러 통합
 - refactor: 스프링의 핸들러매핑, 핸들러 정보 사용
 - refactor: @RequestMapping 도입
 - refactor: 컨트롤러 + 모델엔뷰 반환
