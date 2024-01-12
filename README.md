@@ -4,6 +4,7 @@
 
 ## 학습기록
 ### 2024.01.12(금)
+- refactor: 컨트롤러 + 모델엔뷰 반환
 - refactor: spring MVC 활용을 위한 HandlerMapping, Handler Adapter를 사용하는 스프링 빈 추가
 - refactor: ControllerV4를 HandlerAdapter 에 추가
 - refactor: HandlerAdapter, Handler 추가
